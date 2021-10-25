@@ -21,7 +21,7 @@ jobs:
       - name: Create documentation
         run: |
           cd docs
-          pip installl -r requirements.txt
+          pip install -r requirements.txt
           make html
       
       - name: Commit documentation changes
