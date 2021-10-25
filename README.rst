@@ -4,6 +4,7 @@ sample_model_deployment
 
 
 Add a short description here!
+If this repo is public, it can generate a documentation automatically.
 
 
 Description
