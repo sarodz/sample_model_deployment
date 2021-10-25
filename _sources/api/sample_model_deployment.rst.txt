@@ -1,0 +1,21 @@
+sample\_model\_deployment package
+=================================
+
+Submodules
+----------
+
+sample\_model\_deployment.skeleton module
+-----------------------------------------
+
+.. automodule:: sample_model_deployment.skeleton
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Module contents
+---------------
+
+.. automodule:: sample_model_deployment
+   :members:
+   :undoc-members:
+   :show-inheritance:
